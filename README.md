@@ -1,8 +1,8 @@
 # PHYS220 CW 5
 
-**Author(s):** **CHANGEME**
+**Author(s):** Baylee Mumma and Christine Outlaw
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-05-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-05-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-05-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-05-baylee-and-christine)
 
 ## Specification
 
